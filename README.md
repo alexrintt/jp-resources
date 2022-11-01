@@ -50,7 +50,7 @@ Helpful articles and websites:
 - How to learn kanji: https://www.fluentu.com/blog/japanese/how-to-learn-kanji.
 - Japanese guide: https://guidetojapanese.org/learn.
 
-## Storytelling Learning Method
+## Storytelling learning Method
 
 This method makes you learn kanji by creating stories, this is an unofficial way of learning Japanese yet can be very efficient.
 
@@ -59,6 +59,8 @@ This method makes you learn kanji by creating stories, this is an unofficial way
 
 ## Repetition method
 
-Here there's no secret: repeat Kanji thousand of times until you learn it.
+Here there's no secret: repeat kanji thousand of times until you fix it.
 
 - Elementary school kanji https://unckel.de/kanjirepeater.
+
+[...] In progress, [...]
