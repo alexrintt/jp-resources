@@ -41,7 +41,7 @@ And I'll be very straight here: I did not learn anything by just looking or clic
 
 _Tip: change preferred languages to Japanese where possible, it's pretty uncomfortable but over the time you will start to understand words, then phrases, then texts, and when you don't even notice you will be comfortable as if you are reading in English._
 
-# Learning Kanji
+# Learning kanji
 
 There's a plenty of ways of learning kanjis.
 
