@@ -15,13 +15,6 @@ First off, I'm betting my time here to first learn to understand, that is, get *
 1. Unlock the "input mode": reading and listening.
 2. Unlock the "output mode": writing and speaking.
 
-## General guides
-
-Some non-specific guides or resources:
-
-- How to learn kanji: https://www.fluentu.com/blog/japanese/how-to-learn-kanji.
-- 
-
 ## How much time
 
 Everyday, as long you did not lose score, it's ok.
