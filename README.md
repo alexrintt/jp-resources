@@ -31,7 +31,7 @@ I'm learning kana through repetition, so these are some support resources that I
 - Test your hiragana skills with a timer (main): https://www.jetpunk.com/user-quizzes/25526/hiragana-practice.
 - Test your katakana skils with a timer (main): https://www.jetpunk.com/user-quizzes/25526/katakana-practice.
 
-The only challenge here is to memorize everything, I do not wait to develop a "fast reading" because with kana you can read almost nothing but foreign (English) words written in katakana.
+The only challenge here is to memorize everything, I do not wait to develop a "fast reading" because with kana you can read almost nothing but some foreign (English) words written in katakana.
 
 So as long you are comfortable with these characters, even in "slow mode" you can skip to kanji, at least I did.
 
