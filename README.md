@@ -35,7 +35,7 @@ The only challenge here is to memorize everything, I do not wait to develop a "f
 
 So as long you are comfortable with these characters, even in "slow mode" you can skip to kanji, at least I did.
 
-_Slow mode_ means: when you're strugging to read simple words, but you can read understand after some while, like: さよなら,　かぜ, さん,　です.
+_Slow mode_ means: when you're strugging to read simple words, but you can read understand after some while, like: さよなら, かぜ, さん, です.
 
 And I'll be very straight here: I did not learn anything by just looking or clicking on buttons, I full-filled an entire white-paper book with these characters, written by hand to _start_ being comfortable with it, all the contents placed in this sections must be used only as complements to your repetition based handwriting exercises.
 
