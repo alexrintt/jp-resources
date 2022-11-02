@@ -43,7 +43,7 @@ _Tip: change preferred languages to Japanese where possible, it's pretty uncomfo
 
 # Learning kanji
 
-There's a plenty of ways of learning kanjis.
+There's a plenty of ways to learn kanji.
 
 Helpful articles and websites:
 
