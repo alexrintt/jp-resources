@@ -8,6 +8,8 @@ This is a roadmap of a complete beginner.
 
 Also, the order matters: the order of the content is the order that I'm learning.
 
+> Duolingo is a decent starting point for Japanese, but within a month or two it becomes completely useless. If you want to learn kanji, wanikani has been very helpful for me personally.
+
 ## The idea behind this guide
 
 First off, I'm betting my time here to first learn to understand, that is, get **input**, then move to the **output**.
@@ -31,7 +33,9 @@ I'm learning kana through repetition, so these are some support resources that I
 - Test your hiragana skills with a timer (main): https://www.jetpunk.com/user-quizzes/25526/hiragana-practice.
 - Test your katakana skils with a timer (main): https://www.jetpunk.com/user-quizzes/25526/katakana-practice.
 
-The only challenge here is to memorize everything, I do not wait to develop a "fast reading" because with kana you can read almost nothing but some foreign (English) words written in katakana.
+Duolingo is a great start point, to get familiarity with the characters and sounds, but after a month it becomes really "easy", and since the kana is incomplete and you are not fluent yet it also become useless, so move on, try kanji! try all methods before focusing in a single one.
+
+So, in the first month, though sounds hard, the only challenge here is to memorize everything, I do not wait to develop a "fast reading" because with kana you can read almost nothing but some foreign (English) words written in katakana.
 
 So as long you are comfortable with these characters, even in "slow mode" you can skip to kanji, at least I did.
 
